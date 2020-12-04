@@ -14,3 +14,6 @@
 
 ### Usage:
 - Well this facenet is defined and implementation of facenet paper published in Arxiv (FaceNet: A Unified Embedding for Face Recognition and Clustering). And also contain the idea of two paper named as "A Discriminative Feature Learning Approach for Deep Face Recognition" and "Deep Face Recognition". For deep understanding about its concept you can follow upper paper. One also main part is that for genearating your own model you can follow this link Face Recognition using Tensorflow. David Sandberg have nicely implemnted you can also find it on Github for complete code and uses.
+
+
+To get more knowledge about Facial Expression Recognition visit https://github.com/ArchilChovatiya/Facial-Expression-Recognition.
