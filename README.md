@@ -5,7 +5,7 @@
 - Scikit-learn (0.19.1)
 - Opencv (2.4.9.1)
 
-### Process to train facenet model
+### Process to train FaceNet model
 - Place Dataset of images in folder containing Label same as person name and place it in ./train_img.
 - After that run data_preprocess.py and then run train_main.py
 - in ./pre_img you will find processed (cropped) images of faces.This images will used to train FaceNet model when train_main.py is runned.
