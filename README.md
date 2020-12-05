@@ -12,9 +12,10 @@
 - Here I have placed FER(Fecial expression recognition) model named model.h5 so you don't need to additionally train it.
 - To utilize both FaceNet and FER model run Identify_face_with_sentimental_analysis.py
 
+- To get more knowledge about Facial Expression Recognition visit https://github.com/ArchilChovatiya/Facial-Expression-Recognition.
+- To get trained model of FER contact me @ chovatiya.archil@gmail.com
+
 ### Usage:
 - Well this facenet is defined and implementation of facenet paper published in Arxiv (FaceNet: A Unified Embedding for Face Recognition and Clustering). And also contain the idea of two paper named as "A Discriminative Feature Learning Approach for Deep Face Recognition" and "Deep Face Recognition". For deep understanding about its concept you can follow upper paper. One also main part is that for genearating your own model you can follow this link Face Recognition using Tensorflow. David Sandberg have nicely implemnted you can also find it on Github for complete code and uses.
 
 
-- To get more knowledge about Facial Expression Recognition visit https://github.com/ArchilChovatiya/Facial-Expression-Recognition.
-- To get trained model of FER contact me @ chovatiya.archil@gmail.com
