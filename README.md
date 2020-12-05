@@ -17,3 +17,4 @@
 
 
 To get more knowledge about Facial Expression Recognition visit https://github.com/ArchilChovatiya/Facial-Expression-Recognition.
+To get trained model of FER contact me @ chovatiya.archil@gmail.com
